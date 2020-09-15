@@ -1,10 +1,16 @@
 #main-header {
     height: 60px;
-    background: #da552f;
+    background: #001D26;
     font-size: 18px;
     font-weight: bold;
     color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.logo {
+
+    max-width: 150px;
+
 }

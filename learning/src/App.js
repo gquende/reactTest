@@ -3,16 +3,19 @@ import React from 'react';
 //import './App.css';
 //import Header from './components/Header';
 import './components/styles/global.css'
-import Teste from './components/Teste';
-import Header from './components/pages/Header';
+import Header from './components/Header';
+import Main from './components/pages/Main'
 
 
 function App() {
   return (
     <div className="App">
       <Header></Header>
+      <Main></Main>
     </div>
   );
+
+
 }
 
 export default App;
